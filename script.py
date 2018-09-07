@@ -1,1 +1,3 @@
-print "Hello from peter"
+input("enter Peter")
+print(input)
+
